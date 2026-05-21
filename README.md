@@ -1,250 +1,153 @@
-\# Hi there 👋 I'm Sunayana Pradhan
+<h1 align="center">
+  Hi 👋, I'm Sunayana
+</h1>
 
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Python+Developer;Frontend+UI+Enthusiast;Machine+Learning+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
 
-\### Full Stack Python Learner | Frontend Developer | ML Enthusiast
+</div>
 
+---
 
+## 👨‍💻 About Me
 
-<p align="center">
+Hi there 👋  
+I'm **Sunayana**, a passionate **Full Stack Python learner** with strong interest in building modern web applications and solving real-world problems using technology.
 
-&#x20; <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=700\&lines=Full+Stack+Python+Developer;Frontend+Developer;Machine+Learning+Enthusiast;Open+Source+Learner" />
+Currently learning and building projects in:
 
+- 🐍 Python Full Stack Development
+- 🌐 Frontend Web Development
+- ⚡ Responsive UI Design
+- 🔧 Git & GitHub Workflow
+
+I enjoy creating clean user interfaces, learning new technologies, and improving my problem-solving skills every day.
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-
-
-\---
-
-
-
-\## 🚀 About Me
-
-
-
-🎓 BCA Graduate passionate about building modern web applications and solving real-world problems using Python.
-
-
-
-💻 Currently learning \*\*Full Stack Python Development\*\* at \*\*Naresh IT, Hyderabad\*\*
-
-
-
-🌱 Exploring:
-
-\- Django
-
-\- REST APIs
-
-\- JavaScript
-
-\- Responsive UI Design
-
-\- Machine Learning
-
-
-
-⚡ I enjoy turning ideas into interactive and user-friendly projects.
-
-
-
-\---
-
-
-
-\# 🛠 Tech Stack
-
-
-
-\## 👨‍💻 Languages
-
-\- Python
-
-\- JavaScript (ES6+)
-
-
-
-\## 🎨 Frontend
-
-\- HTML5
-
-\- CSS3
-
-\- Bootstrap 5
-
-\- Flexbox
-
-\- CSS Grid
-
-\- Responsive Design
-
-
-
-\## ⚙️ Tools \& Platforms
-
-\- Git
-
-\- GitHub
-
-\- VS Code
-
-
-
-\---
-
-
-
-\# 📌 Featured Projects
-
-
-
-\## 🩺 Diabetes Prediction System
-
-
-
-> Machine Learning based web app to predict diabetes risk using patient health data.
-
-
-
-\### 🔹 Tech Used
-
-\- Python
-
-\- scikit-learn
-
-\- pandas
-
-\- Streamlit
-
-
-
-\### ✨ Features
-
-\- Logistic Regression \& SVM models
-
-\- Accuracy comparison
-
-\- Interactive UI
-
-\- Real-time predictions
-
-
-
-\---
-
-
-
-\## 🌐 Personal Portfolio Website
-
-
-
-> Fully responsive portfolio website showcasing projects, skills, and profile.
-
-
-
-\### 🔹 Tech Used
-
-\- HTML5
-
-\- CSS3
-
-\- Bootstrap 5
-
-\- JavaScript
-
-
-
-\### ✨ Features
-
-\- Responsive design
-
-\- Smooth scrolling
-
-\- Dynamic navigation
-
-\- Clean UI/UX
-
-
-
-\---
-
-
-
-\# 📚 Education
-
-
-
-🎓 \*\*Bachelor of Computer Applications (BCA)\*\*  
-
-Chikiti Mahavidyalaya, Berhampur University
-
-
-
-📖 \*\*Full Stack Python Developer Training\*\*  
-
-Naresh IT, Hyderabad
-
-
-
-\---
-
-
-
-\# 🏆 Achievements
-
-
-
-\- ✅ Full Stack Python Developer Certification – Naresh IT
-
-\- ✅ Active problem solving on HackerRank \& LeetCode
-
-\- ✅ Built responsive real-world projects
-
-
-
-\---
-
-
-
-\# 🌟 Strengths
-
-
-
-✔ Problem Solving  
-
-✔ Quick Learner  
-
-✔ Team Collaboration  
-
-✔ Attention to Detail  
-
-✔ Deadline Driven
-
-
-
-\---
-
-
-
-\# 📫 Connect With Me
-
-
-
-\- 📧 Email: sunayanapradhan658@gmail.com
-
-\- 💼 LinkedIn: https://linkedin.com/in/sunayanapradhan
-
-\- 💻 GitHub: https://github.com/sunayana658
-
-
-
-\---
-
-
-
-<p align="center">
-
-&#x20; ⭐ If you like my work, feel free to connect and collaborate!
-
+### 🎨 Frontend & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" />
 </p>
 
+- Responsive Design  
+- Flexbox  
+- CSS Grid  
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🩺 Diabetes Prediction System
+🔗 Live: https://diabetes-prediction-rc9us66qzdoqhqt7gerdfx.streamlit.app/  
+### Machine Learning Project
+
+🔹 Built a machine learning web app to predict diabetes risk using patient health data.
+
+### 🚀 Features
+- Logistic Regression & SVM models
+- Accuracy comparison between algorithms
+- Streamlit interactive interface
+- Model evaluation using confusion matrix & metrics
+
+### 🛠️ Tech Used
+`Python` `scikit-learn` `pandas` `Streamlit`
+
+---
+
+## 🌐 Personal Portfolio Website
+
+🔹 Designed and developed a responsive personal portfolio website to showcase skills and projects.
+
+### 🚀 Features
+- Mobile-first responsive design
+- Smooth scrolling effects
+- Interactive navigation bar
+- Custom Flexbox & Grid layouts
+
+### 🛠️ Tech Used
+`HTML5` `CSS3` `Bootstrap 5` `JavaScript`
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Python
+- Django Framework
+- REST APIs
+- Database Management
+- Full Stack Development
+
+---
+
+# 🎯 Goals
+
+- Contribute to real-world projects
+- Become a professional Full Stack Developer
+- Explore Open Source Contributions
+- Improve problem-solving and DSA skills
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sunayana658&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunayana658&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sunayana658&theme=tokyonight&hide_border=false" />
+
+</div>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="left">
+<a href="https://github.com/sunayana658" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/sunayana-pradhan-33b6082a1/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+📧 **Email:** sunayanapradhan658@gmail.com
+
+---
+
+# ✨ Fun Fact
+
+> "Consistency beats talent when talent doesn’t stay consistent."
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
